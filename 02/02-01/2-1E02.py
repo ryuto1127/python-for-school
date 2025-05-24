@@ -1,0 +1,1 @@
+print("John: I went to Stanley park last Sunday!\nRyuto: Wow! How was the park?\nJohn: Amazing! I love the moment of the sunset especially. Everything was shining.")

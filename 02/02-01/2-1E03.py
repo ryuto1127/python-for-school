@@ -1,0 +1,5 @@
+print("back" + "pack")
+print("blue" + "bird")
+print("cow" + "boy")
+print("play" + "house")
+print("gold" + "fish")
